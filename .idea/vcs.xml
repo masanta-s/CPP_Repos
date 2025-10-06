@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CPP_Repos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSES/CSES" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Codeforces/Codeforces" vcs="Git" />
+  </component>
+</project>
